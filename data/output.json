@@ -1,0 +1,44 @@
+[
+  {
+    "hotelName": "Ambassador Hotel Bangkok",
+    "hotelAddress": "171 Soi Sukhumvit 11, Khlong Toei Nuea, Watthana, Bangkok, 10110, Thailand",
+    "price": "Total price: ₹ 229,170",
+    "hotelId": "700739",
+    "duration": [
+      "2025-07-15",
+      "2025-07-30"
+    ],
+    "adult": "5",
+    "children": "1",
+    "url": "https://in.trip.com/hotels/detail/?hotelId=700739&checkIn=2025-07-15&checkOut=2025-07-30&adult=5&children=1&ages=5&curr=INR",
+    "fetchedAt": "2025-07-10T20:13:31.621Z"
+  },
+  {
+    "hotelName": "Ramada Plaza by Wyndham Dubai Deira",
+    "hotelAddress": "BESIDE METRO STATION - Abu Baker Al Siddique Rd, Al Khabaisi, Dubai, Emirate of Dubai, United Arab Emirates",
+    "price": "Total price: ₹ 156,650",
+    "hotelId": "2785037",
+    "duration": [
+      "2025-07-15",
+      "2025-07-30"
+    ],
+    "adult": "5",
+    "children": "1",
+    "url": "https://in.trip.com/hotels/detail/?hotelId=2785037&checkIn=2025-07-15&checkOut=2025-07-30&adult=5&children=1&ages=5&curr=INR",
+    "fetchedAt": "2025-07-10T20:14:13.133Z"
+  },
+  {
+    "hotelName": "Hotel Square Plaza -Near IGI Airport Terminal 3",
+    "hotelAddress": "Mehrauli Mahipalpur Rd, near Chhoti Redlight, Mahipalpur Extension, Mahipalpur, New Delhi, Delhi 110037, India",
+    "price": "Total price: ₹ 68,211",
+    "hotelId": "122411997",
+    "duration": [
+      "2025-07-15",
+      "2025-07-30"
+    ],
+    "adult": "5",
+    "children": "1",
+    "url": "https://in.trip.com/hotels/detail/?hotelId=122411997&checkIn=2025-07-15&checkOut=2025-07-30&adult=5&children=1&ages=5&curr=INR",
+    "fetchedAt": "2025-07-10T20:14:30.384Z"
+  }
+]
