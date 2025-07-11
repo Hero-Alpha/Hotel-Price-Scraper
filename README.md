@@ -31,9 +31,10 @@ This is a Node.js based website scraper, used to scrape the price of hotel stay 
 
 ## Setup Instructions
 
-```bash
 1. Install dependencies:
+```bash
    npm install
+```
 
 2. Configure input in .env:
    CHECKIN=2025-07-15
@@ -52,3 +53,9 @@ This is a Node.js based website scraper, used to scrape the price of hotel stay 
 
 4. Output:
    data/output.json
+
+---
+
+## Example Output
+<img width="1319" height="591" alt="image" src="https://github.com/user-attachments/assets/a2946521-cc50-46f4-a054-0f45c876971a" />
+
